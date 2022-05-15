@@ -30,5 +30,5 @@ function makeReport() {
    num : `O número de vogais é ${vowelNum}`
   }}
   
-console.log(`A string escolhida é ${chosenString}`)
+console.log(`A string escolhida é ${chosenString}`);
 console.log(makeReport());
